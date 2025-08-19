@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksi04" alt="abhisheksi04" /></a> </p>
+
 
 - 🌱 I’m currently learning **Blockchain, LangChain, LangGraph and LLMs**
 
