@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksi04" alt="abhisheksi04" /></a> </p>
 
-- 🌱 I’m currently learning **LangChain, LangGraph and LLMs**
+- 🌱 I’m currently learning **Blockchain, LangChain, LangGraph and LLMs**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
